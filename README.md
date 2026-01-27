@@ -1,4 +1,4 @@
-# Hi, I'm Amal Udayanga Basnayake 👋 | Aspiring Cyber Security Engineer | IT & System Specialist
+# Hi, I'm Amal Udayanga Basnayake | Aspiring Cyber Security Engineer | IT & System Specialist
 
 A results-driven Cybersecurity professional with a 360-degree focus on Offensive and Defensive security. Currently a Pearson BTEC HND candidate, ISC2 Candidate, and ISO 27001 Lead Auditor, I specialize in architecting secure systems and proactive threat mitigation.
 
