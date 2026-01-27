@@ -6,7 +6,7 @@ A results-driven Cybersecurity professional with a 360-degree focus on Offensive
 
 ### 🔵 Blue Teaming & Defense
 - **Security Operations:** Blue Team Junior Analyst Pathway (BTJA), Incident Response, and SOC operations.
-- **Vulnerability Management:** Nessus Essentials Expert (Audited 22+ targets).
+- **Vulnerability Management:** [Nessus Essentials Expert](https://github.com/AmalUBasnayake/Vulnerability-Management-Nessus) (Audited 22+ targets, vulnerability scanning & risk assessment)..
 - **SIEM:** [Splunk Enterprise](https://github.com/AmalUBasnayake/SOC-Log-Analysis-Splunk) (Log analysis, security dashboards & threat monitoring)..
 - **Threat Hunting:** Advanced IOC analysis, OSINT techniques, and Digital Forensics.
 - **Network Security:** CCNA (Switching, Routing & Wireless), Wireshark Deep Packet Inspection.
