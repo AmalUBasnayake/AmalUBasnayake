@@ -5,11 +5,10 @@ A results-driven Cybersecurity professional with a 360-degree focus on Offensive
 ## 🛠️ Technical Arsenal
 ![Amal's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmalUBasnayake&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmalUBasnayake&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmalUBasnayake&theme=radical)
+
 <p align="left">
 <a href="https://www.linkedin.com/in/amalubasnayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amalubasnayake" height="30" width="40" /></a>
-<a href="mailto:ඔයාගේ-email-එක-මෙතනට" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
-</p>
+
 
 ### 🔵 Blue Teaming & Defense
 - **Security Operations:** Blue Team Junior Analyst Pathway (BTJA), Incident Response, and SOC operations.
