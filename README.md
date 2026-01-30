@@ -42,4 +42,14 @@ A results-driven Cybersecurity professional with a 360-degree focus on Offensive
 | **Platform Rankings** | **Top 29%** Active Defender on Blue Team Labs Online | Active |
 
 ---
+
+### 🛠️ Technical Skills & Tools
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **SIEM & Logging** | Splunk Enterprise, Universal Forwarder, SPL |
+| **Defensive Security** | Active Directory Monitoring, Windows Event Log Analysis |
+| **Server Admin** | Windows Server 2022, PowerShell |
+| **Compliance** | ISO 27001 Lead Auditor, ISC2 Candidate |
+
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/amal-udayanga-basnayake)
