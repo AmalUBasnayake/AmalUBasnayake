@@ -3,7 +3,9 @@
 A results-driven Cybersecurity professional with a 360-degree focus on Offensive and Defensive security. Currently a Pearson BTEC HND candidate, ISC2 Candidate, and ISO 27001 Lead Auditor, I specialize in architecting secure systems and proactive threat mitigation.
 
 ## 🛠️ Technical Arsenal
-
+![Splunk](https://img.shields.io/badge/Splunk-SIEM-black?style=for-the-badge&logo=splunk)
+![Windows Server](https://img.shields.io/badge/Windows_Server-2022-blue?style=for-the-badge&logo=microsoft)
+![Active Directory](https://img.shields.io/badge/Active_Directory-Security-orange?style=for-the-badge&logo=microsoft-active-directory)
 ![Amal's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmalUBasnayake&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmalUBasnayake&layout=compact&theme=radical)
 
