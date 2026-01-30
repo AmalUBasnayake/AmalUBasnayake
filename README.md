@@ -6,8 +6,7 @@ A results-driven Cybersecurity professional with a 360-degree focus on Offensive
 ![Splunk](https://img.shields.io/badge/Splunk-SIEM-black?style=for-the-badge&logo=splunk)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-2022-blue?style=for-the-badge&logo=microsoft)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-Security-orange?style=for-the-badge&logo=microsoft-active-directory)
-![Amal's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmalUBasnayake&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmalUBasnayake&layout=compact&theme=radical)
+
 
 <p align="left">
 <a href="https://www.linkedin.com/in/amalubasnayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amalubasnayake" height="30" width="40" /></a>
