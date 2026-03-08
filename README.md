@@ -139,6 +139,11 @@ Real-time RDP brute force attack visualization using Microsoft Sentinel and a cu
 </p>
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/AmalUBasnayake/AmalUBasnayake/output/github-contribution-grid-snake.svg" />
+</p>
 
 # 📫 Connect With Me
 
