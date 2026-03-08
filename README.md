@@ -1,55 +1,150 @@
-# Hi, I'm Amal Udayanga Basnayake | Aspiring Cyber Security Engineer | IT & System Specialist
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Amal%20Udayanga%20Basnayake&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Engineer%20%7C%20Azure%20Security%20%7C%20SOC%20%7C%20SIEM&descAlignY=55&descAlign=50"/>
 
-A results-driven Cybersecurity professional with a 360-degree focus on Offensive and Defensive security. Currently a Pearson BTEC HND candidate, ISC2 Candidate, and ISO 27001 Lead Auditor, I specialize in architecting secure systems and proactive threat mitigation.
+<h1 align="center">Hi 👋 I'm Amal Udayanga Basnayake</h1>
+<h3 align="center">Cybersecurity Engineer | Azure Security | SOC | SIEM | Blue Team</h3>
 
-## 🛠️ Technical Arsenal
-![Splunk](https://img.shields.io/badge/Splunk-SIEM-black?style=for-the-badge&logo=splunk)
-![Windows Server](https://img.shields.io/badge/Windows_Server-2022-blue?style=for-the-badge&logo=microsoft)
-![Active Directory](https://img.shields.io/badge/Active_Directory-Security-orange?style=for-the-badge&logo=microsoft-active-directory)
-
-
-<p align="left">
-<a href="https://www.linkedin.com/in/amalubasnayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amalubasnayake" height="30" width="40" /></a>
-
-
-### 🔵 Blue Teaming & Defense
-- **Security Operations:** Blue Team Junior Analyst Pathway (BTJA), Incident Response, and SOC operations.
-- **Vulnerability Management:** [Nessus Essentials Expert](https://github.com/AmalUBasnayake/Vulnerability-Management-Nessus) (Audited 22+ targets, vulnerability scanning & risk assessment)..
-- **SIEM:** [Splunk Enterprise](https://github.com/AmalUBasnayake/SOC-Log-Analysis-Splunk) (Log analysis, security dashboards & threat monitoring)..
-- **Threat Hunting:** Advanced IOC analysis, OSINT techniques, and Digital Forensics.
-- **Network Security:** CCNA (Switching, Routing & Wireless), Wireshark Deep Packet Inspection.
-
-### 🔴 Red Teaming & Offensive
-- **Operations:** Certified Red Team Operations Management (CRTOM).
-- **Labs & CTFs:** Active participant on **Hack The Box (HTB Academy)** and **TryHackMe**.
-- **Malware Research:** Intermediate Malware Analysis and Behavior Profiling.
-- **AI Security:** Specialized in Offensive Agent AI Security.
-
-### ☁️ Cloud & GRC
-- **Cloud Security:** Azure Virtual Network Security (Microsoft Learn Level 8) and AWS Practitioner Essentials.
-- **Compliance:** ISO/IEC 27001:2022 Lead Auditor (Trained & Certified).
-
-## 🏆 Professional Recognition & Certifications
-
-| Category | Achievement / Certifications | Status |
-| :--- | :--- | :--- |
-| **Academic** | Pearson BTEC HND in Cybersecurity (Achievers International Campus) | Ongoing |
-| **Industry Standards** | ISO/IEC 27001:2022 Lead Auditor & ISC2 Candidate | Certified |
-| **Cisco Networking** | CCNA Series, Cyber Threat Management, Junior Cyber Analyst Path | Certified |
-| **Security Blue Team** | BTJA Pathway, OSINT, Digital Forensics, Threat Hunting | Certified |
-| **Hands-on Labs** | **HTB Academy** (33.8% Progress), **TryHackMe**, **Nessus** (22+ Scans) | Active |
-| **Job Simulations** | Forage: **Mastercard, Telstra, Deloitte, Tata, AIG, Commonwealth Bank** | Completed |
-| **Platform Rankings** | **Top 29%** Active Defender on Blue Team Labs Online | Active |
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=AmalUBasnayake&label=Profile%20Views&color=blue&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Security-Blue%20Team-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud-Azure-blue?style=for-the-badge&logo=microsoftazure"/>
+<img src="https://img.shields.io/badge/SIEM-Splunk-black?style=for-the-badge&logo=splunk"/>
+</p>
 
 ---
 
-### 🛠️ Technical Skills & Tools
+# 👨‍💻 About Me
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **SIEM & Logging** | Splunk Enterprise, Universal Forwarder, SPL |
-| **Defensive Security** | Active Directory Monitoring, Windows Event Log Analysis |
-| **Server Admin** | Windows Server 2022, PowerShell |
-| **Compliance** | ISO 27001 Lead Auditor, ISC2 Candidate |
+A results-driven **Cybersecurity Professional with 5+ years of IT Operations experience** focused on **cloud security, threat detection, and SOC operations**.
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/amal-udayanga-basnayake)
+🎓 **Pearson BTEC HND in Cybersecurity**  
+🔐 **ISO/IEC 27001:2022 Lead Auditor**  
+🛡 **ISC2 Candidate**  
+
+I specialize in building **hands-on cybersecurity labs** that simulate real-world attacks and demonstrate enterprise-level **threat detection, monitoring, and incident response capabilities**.
+
+---
+
+# 🛡 Cybersecurity Focus Areas
+
+### 🔵 Blue Team & SOC Operations
+
+• Security Operations Center (SOC) Monitoring  
+• Threat Detection & Incident Response  
+• SIEM Engineering (Splunk & Microsoft Sentinel)  
+• Digital Forensics & Threat Hunting  
+• Vulnerability Management with Nessus  
+
+### 🔴 Offensive Security
+
+• Red Team Attack Simulation  
+• Hack The Box & TryHackMe Labs  
+• Malware Behaviour Analysis  
+• Adversary Techniques Research  
+
+### ☁️ Cloud Security & Governance
+
+• Microsoft Azure Security Architecture  
+• Azure Firewall & Network Security  
+• Conditional Access & Identity Protection  
+• ISO/IEC 27001 Security Governance  
+
+---
+
+# 🧰 Technical Skills
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=azure,powershell,windows,linux,github,docker"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/SIEM-Splunk-black?style=for-the-badge&logo=splunk"/>
+<img src="https://img.shields.io/badge/Microsoft-Sentinel-blue?style=for-the-badge&logo=microsoft"/>
+<img src="https://img.shields.io/badge/Security-Nessus-darkgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Windows-Server%202022-blue?style=for-the-badge&logo=microsoft"/>
+
+</p>
+
+---
+
+# ☁️ Azure Security Projects
+
+• Azure Secure Web Load Balancer High Availability  
+• Azure Firewall Hub-Spoke Security Architecture  
+• Azure DDoS Protection Hands-On Lab  
+• Azure Conditional Access MFA Lab  
+• Azure Key Vault Secrets Hardening  
+• Azure Network Security Group IIS Web Server Lab  
+• Azure IAM Privileged Identity Management Lab  
+
+---
+
+# 🛡 SIEM & Threat Detection
+
+• Sentinel Honeypot Live Attack Map  
+• Sentinel SOAR Automated IP Blocking  
+• Sentinel Brute Force Detection Lab  
+• Sentinel SOC Automation Lab  
+
+---
+
+# 🌐 Network Security Monitoring
+
+• Splunk Realtime SOC Dashboard (2.6M+ Events)  
+• Live Network Security Monitoring using TShark  
+• Splunk Network Traffic Analysis  
+
+---
+
+# 🖥 Windows Security Detection
+
+• Windows Endpoint Monitoring using Sysmon  
+• Windows Registry Persistence Detection  
+• Windows Persistence Threat Simulation  
+• Windows Server 2022 Active Directory GPO Security  
+
+---
+
+# 🌍 Live Cyber Attack Map
+
+Real-time RDP brute force attack visualization using Microsoft Sentinel and a custom PowerShell geolocation script.
+
+🔗 https://github.com/AmalUBasnayake/Azure-Sentinel-Honeypot-Live-Attack-Map
+
+---
+
+# 🏆 Certifications & Recognition
+
+| Category | Achievement |
+|---|---|
+| Academic | Pearson BTEC HND in Cybersecurity |
+| Compliance | ISO/IEC 27001:2022 Lead Auditor |
+| Security Platforms | Blue Team Labs Online – Top 29% Active Defender |
+| Networking | Cisco CCNA Cyber Threat Management |
+| SOC Training | Blue Team Junior Analyst Pathway |
+| Labs | Hack The Box & TryHackMe |
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AmalUBasnayake&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmalUBasnayake&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+🔗 LinkedIn  
+https://www.linkedin.com/in/amal-udayanga-basnayake
+
+---
+
+⭐ Building **real-world cybersecurity labs** focused on **SOC detection, cloud security, and blue team defense**.
