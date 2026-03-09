@@ -1,155 +1,83 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Amal%20Udayanga%20Basnayake&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Engineer%20%7C%20Azure%20Security%20%7C%20SOC%20%7C%20SIEM&descAlignY=55&descAlign=50"/>
+<p align="center">
+<img src="YOUR-BANNER-LINK-HERE" width="100%">
+</p>
 
 <h1 align="center">Hi 👋 I'm Amal Udayanga Basnayake</h1>
-<h3 align="center">Cybersecurity Engineer | Azure Security | SOC | SIEM | Blue Team</h3>
+
+<h3 align="center">Cloud & Cybersecurity Engineer | Azure Security Specialist</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=AmalUBasnayake&label=Profile%20Views&color=blue&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Security-Blue%20Team-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cloud-Azure-blue?style=for-the-badge&logo=microsoftazure"/>
-<img src="https://img.shields.io/badge/SIEM-Splunk-black?style=for-the-badge&logo=splunk"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=700&lines=Cybersecurity+Engineer;Azure+Security+Specialist;Cloud+Security+Enthusiast;SIEM+Monitoring;Threat+Detection">
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-A results-driven **Cybersecurity Professional with 5+ years of IT Operations experience** focused on **cloud security, threat detection, and SOC operations**.
-
-🎓 **Pearson BTEC HND in Cybersecurity**  
-🔐 **ISO/IEC 27001:2022 Lead Auditor**  
-🛡 **ISC2 Candidate**  
-
-I specialize in building **hands-on cybersecurity labs** that simulate real-world attacks and demonstrate enterprise-level **threat detection, monitoring, and incident response capabilities**.
+- 🏫 IT & Systems Specialist at Musaeus College  
+- ☁️ Working with Microsoft Azure Cloud Infrastructure  
+- 🔐 Passionate about Cybersecurity & Threat Detection  
+- 📚 Preparing for AZ-500 Azure Security Engineer Certification  
+- 🚀 Building real-world Cloud Security Labs  
 
 ---
 
-# 🛡 Cybersecurity Focus Areas
+## 🛡️ Cybersecurity Skills
 
-### 🔵 Blue Team & SOC Operations
-
-• Security Operations Center (SOC) Monitoring  
-• Threat Detection & Incident Response  
-• SIEM Engineering (Splunk & Microsoft Sentinel)  
-• Digital Forensics & Threat Hunting  
-• Vulnerability Management with Nessus  
-
-### 🔴 Offensive Security
-
-• Red Team Attack Simulation  
-• Hack The Box & TryHackMe Labs  
-• Malware Behaviour Analysis  
-• Adversary Techniques Research  
-
-### ☁️ Cloud Security & Governance
-
-• Microsoft Azure Security Architecture  
-• Azure Firewall & Network Security  
-• Conditional Access & Identity Protection  
-• ISO/IEC 27001 Security Governance  
+🔐 Identity & Access Management  
+☁️ Cloud Security Architecture  
+📊 SIEM Monitoring  
+🧠 Threat Detection  
+⚙️ Incident Response  
+🔎 Log Analysis  
 
 ---
 
-# 🧰 Technical Skills
+## ⚙️ Security Tools & Technologies
 
-<p align="center">
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
+![Microsoft Sentinel](https://img.shields.io/badge/SIEM-Microsoft%20Sentinel-green)
+![Defender](https://img.shields.io/badge/Microsoft-Defender-red)
+![Cloud Security](https://img.shields.io/badge/Cloud-Security-purple)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-Security-blue)
 
-<img src="https://skillicons.dev/icons?i=azure,powershell,windows,linux,github,docker"/>
+Security tools include:
 
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/SIEM-Splunk-black?style=for-the-badge&logo=splunk"/>
-<img src="https://img.shields.io/badge/Microsoft-Sentinel-blue?style=for-the-badge&logo=microsoft"/>
-<img src="https://img.shields.io/badge/Security-Nessus-darkgreen?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Windows-Server%202022-blue?style=for-the-badge&logo=microsoft"/>
-
-</p>
-
----
-
-# ☁️ Azure Security Projects
-
-• Azure Secure Web Load Balancer High Availability  
-• Azure Firewall Hub-Spoke Security Architecture  
-• Azure DDoS Protection Hands-On Lab  
-• Azure Conditional Access MFA Lab  
-• Azure Key Vault Secrets Hardening  
-• Azure Network Security Group IIS Web Server Lab  
-• Azure IAM Privileged Identity Management Lab  
+- Microsoft Azure  
+- Microsoft Sentinel  
+- Microsoft Entra ID  
+- Microsoft Defender for Cloud  
+- Microsoft 365 Security  
 
 ---
 
-# 🛡 SIEM & Threat Detection
+## 🚀 Cybersecurity Projects
 
-• Sentinel Honeypot Live Attack Map  
-• Sentinel SOAR Automated IP Blocking  
-• Sentinel Brute Force Detection Lab  
-• Sentinel SOC Automation Lab  
+🔹 Azure Hub-Spoke Security Architecture Lab  
 
----
+🔹 Azure DDoS Protection Implementation  
 
-# 🌐 Network Security Monitoring
+🔹 Microsoft Sentinel SOAR Automation  
 
-• Splunk Realtime SOC Dashboard (2.6M+ Events)  
-• Live Network Security Monitoring using TShark  
-• Splunk Network Traffic Analysis  
+🔹 Azure Privileged Identity Management (PIM) Lab  
+
+🔹 Cloud Threat Detection Monitoring  
 
 ---
 
-# 🖥 Windows Security Detection
+## 📊 GitHub Stats
 
-• Windows Endpoint Monitoring using Sysmon  
-• Windows Registry Persistence Detection  
-• Windows Persistence Threat Simulation  
-• Windows Server 2022 Active Directory GPO Security  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmalUBasnayake&show_icons=true&theme=tokyonight)
 
 ---
 
-# 🌍 Live Cyber Attack Map
+## 🔥 Contribution Activity
 
-Real-time RDP brute force attack visualization using Microsoft Sentinel and a custom PowerShell geolocation script.
-
-🔗 https://github.com/AmalUBasnayake/Azure-Sentinel-Honeypot-Live-Attack-Map
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
-# 🏆 Certifications & Recognition
-
-| Category | Achievement |
-|---|---|
-| Academic | Pearson BTEC HND in Cybersecurity |
-| Compliance | ISO/IEC 27001:2022 Lead Auditor |
-| Security Platforms | Blue Team Labs Online – Top 29% Active Defender |
-| Networking | Cisco CCNA Cyber Threat Management |
-| SOC Training | Blue Team Junior Analyst Pathway |
-| Labs | Hack The Box & TryHackMe |
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AmalUBasnayake&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmalUBasnayake&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/AmalUBasnayake/AmalUBasnayake/output/github-contribution-grid-snake.svg" />
-</p>
-
-# 📫 Connect With Me
+## 🤝 Connect With Me
 
 🔗 LinkedIn  
 https://www.linkedin.com/in/amal-udayanga-basnayake
-
----
-
-⭐ Building **real-world cybersecurity labs** focused on **SOC detection, cloud security, and blue team defense**.
