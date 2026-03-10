@@ -1,5 +1,5 @@
 <p align="center">
-<img src="YOUR-BANNER-LINK-HERE" width="100%">
+<img src=".github/Banner/banner.png" width="100%">
 </p>
 
 <h1 align="center">Hi 👋 I'm Amal Udayanga Basnayake</h1>
