@@ -7,7 +7,7 @@
 <h3 align="center">Cloud Security Engineer | Azure Security Specialist | Cybersecurity Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=700&lines=Cybersecurity+Engineer;Azure+Security+Specialist;Cloud+Security+Enthusiast;SIEM+Monitoring;Threat+Detection;Blue+Team+Security">
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=700&lines=Cloud+Security+Engineer;Azure+Security+Specialist;Cybersecurity+Enthusiast;SIEM+Monitoring;Threat+Detection;Blue+Team+Security">
 </p>
 
 <p align="center">
@@ -22,9 +22,10 @@
 
 - 🏫 IT & Systems Specialist at **Musaeus College**
 - ☁️ Working with **Microsoft Azure Cloud Infrastructure**
-- 🛡️ Passionate about **Cyber Defense & Blue Team Security**
+- 🛡️ Passionate about **Blue Team Security & Cyber Defense**
 - 📚 Preparing for **AZ-500 Microsoft Azure Security Engineer Certification**
 - 🚀 Building **Real-World Cloud Security Labs**
+- 🔍 Focused on **Identity Security, SIEM Monitoring, and Threat Detection**
 
 ---
 
@@ -37,6 +38,7 @@
 ⚙️ Incident Response  
 🔎 Log Analysis  
 🛡️ Security Monitoring  
+🚨 Threat Hunting  
 
 ---
 
@@ -44,11 +46,12 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Microsoft-Azure-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Microsoft-Azure-blue?style=for-the-badge&logo=microsoftazure">
 <img src="https://img.shields.io/badge/Microsoft-Sentinel-green?style=for-the-badge">
 <img src="https://img.shields.io/badge/Microsoft-Defender-red?style=for-the-badge">
 <img src="https://img.shields.io/badge/Microsoft-Entra%20ID-purple?style=for-the-badge">
 <img src="https://img.shields.io/badge/Microsoft-365-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Security-KQL%20Queries-black?style=for-the-badge">
 
 </p>
 
@@ -122,7 +125,7 @@ Examples of global cyber threat monitoring tools:
 
 • Kaspersky Cyber Threat Map  
 • Fortinet Cyber Threat Map  
-• Check Point Live Threat Map
+• Check Point Live Threat Map  
 
 ---
 
@@ -131,7 +134,7 @@ Examples of global cyber threat monitoring tools:
 - Azure WAF + Application Gateway Web Application Security Lab  
 - Enforcing Zero Trust with Azure Conditional Access & MFA  
 - Securing Azure Virtual Machines using Just-in-Time Access  
-- Azure Sentinel Honeypot Attack Monitoring Lab  
+- Microsoft Sentinel SOC Monitoring Lab  
 
 ---
 
@@ -157,8 +160,12 @@ Examples of global cyber threat monitoring tools:
 
 # 🚀 Current Focus
 
-- Azure Security Engineering
-- Cloud Threat Detection
-- SIEM & SOC Monitoring
-- Microsoft Sentinel Automation
-- Security Architecture Design
+- Azure Security Engineering  
+- Cloud Threat Detection  
+- SIEM & SOC Monitoring  
+- Microsoft Sentinel Automation  
+- Security Architecture Design  
+
+---
+
+⭐ Always learning and building **real-world cybersecurity labs**.
