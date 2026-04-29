@@ -1,44 +1,60 @@
 <p align="center">
-<img src=".github/Banner/banner.png" width="100%">
+  <img src=".github/Banner/banner.png" width="100%">
 </p>
 
 <h1 align="center">Hi 👋 I'm Amal Udayanga Basnayake</h1>
 
-<h3 align="center">Cloud Security Engineer | Azure Security Specialist | Cybersecurity Enthusiast</h3>
+<h3 align="center">Cybersecurity Engineer | Cloud Security | Azure Security | SIEM | Threat Detection</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=700&lines=Cloud+Security+Engineer;Azure+Security+Specialist;Cybersecurity+Enthusiast;SIEM+Monitoring;Threat+Detection;Blue+Team+Security">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=700&lines=Cybersecurity+Engineer;Cloud+Security;Azure+Security;SIEM+Monitoring;Threat+Detection;Blue+Team+Security">
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=AmalUBasnayake&label=Profile%20Views&color=blue&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=AmalUBasnayake&label=Profile%20Views&color=blue&style=for-the-badge">
+</p>
+
+<p align="center">
+
+<a href="https://amalcyberlab.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Amal%20Cyber%20Lab-00ff99?style=for-the-badge">
+</a>
+
+<a href="https://www.linkedin.com/in/amal-udayanga-basnayake">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://medium.com/@amalubasnayake">
+<img src="https://img.shields.io/badge/Medium-Articles-black?style=for-the-badge&logo=medium">
+</a>
+
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🔐 Cybersecurity enthusiast focused on **Cloud Security, SIEM Monitoring, and Threat Detection**.
+🔐 Cybersecurity professional focused on **Cloud Security, SIEM Monitoring, and Threat Detection**.
 
 - 🏫 IT & Systems Specialist at **Musaeus College**
 - ☁️ Working with **Microsoft Azure Cloud Infrastructure**
-- 🛡️ Passionate about **Blue Team Security & Cyber Defense**
-- 📚 Preparing for **AZ-500 Microsoft Azure Security Engineer Certification**
+- 🛡️ Focused on **Blue Team Security & Cyber Defense**
+- 📚 Following **Azure Security Engineer Certification Path (AZ-500)**
 - 🚀 Building **Real-World Cloud Security Labs**
 - 🔍 Focused on **Identity Security, SIEM Monitoring, and Threat Detection**
 
 ---
 
-# 🛡️ Cybersecurity Skills
+# 🛡️ Core Security Skills
 
-🔐 Identity & Access Management  
-☁️ Cloud Security Architecture  
-📊 SIEM Monitoring  
-🧠 Threat Detection  
-⚙️ Incident Response  
-🔎 Log Analysis  
-🛡️ Security Monitoring  
-🚨 Threat Hunting  
+- Identity & Access Management  
+- Cloud Security Architecture  
+- SIEM Monitoring  
+- Threat Detection  
+- Incident Response  
+- Log Analysis  
+- Security Monitoring  
+- Threat Hunting  
 
 ---
 
@@ -59,20 +75,26 @@
 
 # 🚀 Featured Cybersecurity Projects
 
-### 🛡️ Azure WAF + Application Gateway Security Lab
-Protecting web applications using **Web Application Firewall and OWASP protection**.
+### 🛡️ Azure WAF + Application Gateway Security Lab  
+Implemented secure web traffic inspection using Azure WAF with OWASP protection.
 
-### 🔐 Azure Just-in-Time VM Access Security Lab
-Securing Azure Virtual Machines using **Microsoft Defender JIT Access**.
+### 🔐 Azure Just-in-Time VM Access Security Lab  
+Secured Azure virtual machines using Microsoft Defender Just-in-Time access controls.
 
-### 🌐 Azure DDoS Protection Hands-On Lab
-Mitigating volumetric attacks using **Azure DDoS Protection**.
+### 🌐 Azure DDoS Protection Hands-On Lab  
+Configured cloud-native mitigation against volumetric attack scenarios.
 
-### 📊 Microsoft Sentinel SOC Monitoring Lab
-Detecting cyber threats using **SIEM log monitoring and analytics**.
+### 📊 Microsoft Sentinel SOC Monitoring Lab  
+Built SIEM-based threat monitoring and alert analysis workflows.
 
-### ☁️ Azure Hub-Spoke Security Architecture
-Enterprise-style **secure network architecture design**.
+### ☁️ Azure Hub-Spoke Security Architecture  
+Designed enterprise-style secure network segmentation in Azure.
+
+---
+
+# 🌐 Security Portfolio
+
+🔗 https://amalcyberlab.vercel.app
 
 ---
 
@@ -100,65 +122,7 @@ Enterprise-style **secure network architecture design**.
 
 ---
 
-# 🔥 Contribution Activity
-
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AmalUBasnayake&theme=tokyonight&no-frame=true&margin-w=10">
-</p>
-
----
-
-# 🌍 Live Cyber Threat Intelligence
-
-Cyber attacks are constantly happening across the internet.  
-Security professionals use global threat intelligence platforms to monitor cyber threats.
-
-Examples of global cyber threat monitoring tools:
-
-• Kaspersky Cyber Threat Map  
-• Fortinet Cyber Threat Map  
-• Check Point Live Threat Map  
-
----
-
-# 📚 Latest Cybersecurity Articles
-
-- Azure WAF + Application Gateway Web Application Security Lab  
-- Enforcing Zero Trust with Azure Conditional Access & MFA  
-- Securing Azure Virtual Machines using Just-in-Time Access  
-- Microsoft Sentinel SOC Monitoring Lab  
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/amal-udayanga-basnayake">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="https://medium.com/@amalubasnayake">
-<img src="https://img.shields.io/badge/Medium-Articles-black?style=for-the-badge&logo=medium">
-</a>
-
-<a href="https://github.com/AmalUBasnayake">
-<img src="https://img.shields.io/badge/GitHub-Profile-white?style=for-the-badge&logo=github">
-</a>
-
-</p>
-
----
-
-# 🚀 Current Focus
+# 📚 Latest Cybersecurity Focus Areas
 
 - Azure Security Engineering  
 - Cloud Threat Detection  
@@ -168,4 +132,4 @@ Examples of global cyber threat monitoring tools:
 
 ---
 
-⭐ Always learning and building **real-world cybersecurity labs**.
+⭐ Always building **real-world cybersecurity labs** and security-focused cloud solutions.
