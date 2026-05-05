@@ -80,7 +80,7 @@
 | Project | Description |
 |---|---|
 | [Microsoft Sentinel SIEM Threat Detection Lab](https://github.com/AmalUBasnayake) | Built end-to-end threat detection pipeline with custom KQL analytics rules |
-| [Sentinel SOAR Automated IP Blocking](https://github.com/AmalUBasnayake) | Automated incident response — malicious IP blocking via Logic Apps |
+| [Sentinel SOAR Automated IP Blocking](https://github.com/AmalUBasnayake) | Automated incident response  malicious IP blocking via Logic Apps |
 | [Honeypot Live Attack Map](https://github.com/AmalUBasnayake) | Deployed Azure honeypot with real-time global attack visualization |
 | [SOC Dashboard Monitoring Lab](https://github.com/AmalUBasnayake) | Built comprehensive SOC monitoring dashboard with alert triage workflows |
 | [Brute Force Attack Detection](https://github.com/AmalUBasnayake) | Detected and responded to brute force attacks using Sentinel analytics |
@@ -111,8 +111,9 @@
 ## 📜 Certifications
 
 - 🎓 **Pearson BTEC Level 5 HND in Cybersecurity**
-- Achievers International Campus *(2024 – 2026)* | Distinction – Digital Forensics | Distinction – ISMS | Merit – Cybersecurity
-- 🔄 **AZ-500** Microsoft Azure Security Engineer *(In Progress — Q3 2026)*
+  Achievers International Campus *(2024 – 2026)* | Distinction – Digital Forensics | Distinction – ISMS | Merit – Cybersecurity
+  
+- 🔄 **AZ-500** Microsoft Azure Security Engineer *(In Progress  Q3 2026)*
 - ✅ **ISO/IEC 27001:2022** Lead Auditor
 - ✅ **CRTOM**  Certified Red Team Operations Management
 - ✅ **CSCSO**  Certified SME Cyber Security Officer
