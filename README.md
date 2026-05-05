@@ -112,11 +112,11 @@
 
 - 🔄 **AZ-500** Microsoft Azure Security Engineer *(In Progress — Q3 2026)*
 - ✅ **ISO/IEC 27001:2022** Lead Auditor
-- ✅ **CRTOM** — Certified Red Team Operations Management
-- ✅ **CSCSO** — Certified SME Cyber Security Officer
+- ✅ **CRTOM** Certified Red Team Operations Management
+- ✅ **CSCSO** Certified SME Cyber Security Officer
 - ✅ **Blue Team Junior Analyst** Pathway
 - ✅ **ISC2** Candidate
-- ✅ **CCNA** — Cisco Networking Academy
+- ✅ **CCNA** Cisco Networking Academy
 - ✅ **Cyber Threat Management** — Cisco Networking Academy
 - ✅ **MS-102** Microsoft 365 Administration Learning Path
 - ✅ **Wireshark & Network Analysis**
@@ -146,7 +146,7 @@
 
 ## 🌐 Security Portfolio
 
-🔗 [amalcyberlab.vercel.app](https://amalcyberlab.vercel.app) — Real-world cybersecurity labs, writeups, and security projects.
+🔗 [amalcyberlab.vercel.app](https://amalcyberlab.vercel.app)  Real-world cybersecurity labs, writeups, and security projects.
 
 ---
 
