@@ -33,7 +33,7 @@
 
 ## 👨‍💻 About Me
 
-🔐 Cybersecurity Engineer with **5+ years** in enterprise IT security, specializing in **SIEM engineering, cloud security, and threat detection** across large-scale environments.
+🔐 Cybersecurity Engineer with **5+ years** in enterprise IT operations, with hands-on specialization in **SIEM engineering, cloud security, and threat detection** across large-scale environments.
 
 - 🏢 IT & Systems Specialist managing **Microsoft 365 security for 4,000+ users**
 - 🛡️ Hands-on with **Microsoft Sentinel, Splunk, Azure Defender, and SOAR automation**
@@ -112,12 +112,12 @@
 
 - 🔄 **AZ-500** Microsoft Azure Security Engineer *(In Progress — Q3 2026)*
 - ✅ **ISO/IEC 27001:2022** Lead Auditor
-- ✅ **CRTOM** Certified Red Team Operations Management
+- ✅ **CRTOM**  Certified Red Team Operations Management
 - ✅ **CSCSO** Certified SME Cyber Security Officer
 - ✅ **Blue Team Junior Analyst** Pathway
 - ✅ **ISC2** Candidate
-- ✅ **CCNA** Cisco Networking Academy
-- ✅ **Cyber Threat Management** — Cisco Networking Academy
+- ✅ **CCNA**  Cisco Networking Academy
+- ✅ **Cyber Threat Management**  Cisco Networking Academy
 - ✅ **MS-102** Microsoft 365 Administration Learning Path
 - ✅ **Wireshark & Network Analysis**
 
