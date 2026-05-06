@@ -33,7 +33,7 @@
 
 ## 👨‍💻 About Me
 
-🔐 Cybersecurity Engineer with **5+ years** in enterprise IT operations, with hands-on specialization in **SIEM engineering, cloud security, and threat detection** across large-scale environments.
+🔐 Cybersecurity and cloud-focused IT professional with 5+ years of experience in enterprise IT operations, specializing in SIEM engineering, cloud security, and threat detection across large-scale environments.
 
 - 🏢 IT & Systems Specialist managing **Microsoft 365 security for 4,000+ users**
 - 🛡️ Hands-on with **Microsoft Sentinel, Splunk, Azure Defender, and SOAR automation**
