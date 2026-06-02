@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋 I'm Amal Udayanga Basnayake</h1>
 
-<h3 align="center">Cybersecurity Engineer | Azure Security | SIEM | Threat Detection | Blue Team</h3>
+<h3 align="center">Cybersecurity & Cloud Security  | Azure Security | SIEM | Threat Detection | Blue Team</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=22&center=true&vCenter=true&width=700&lines=Cybersecurity+Engineer;Microsoft+Sentinel+%7C+Splunk+SIEM;Azure+Cloud+Security;Threat+Detection+%26+Incident+Response;28%2B+Real-World+Security+Labs;Blue+Team+%7C+SOC+Operations">
