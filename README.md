@@ -257,6 +257,13 @@ A practical study and exam-preparation resource covering Microsoft Cloud & AI Se
 **Repository:**  
 https://github.com/AmalUBasnayake/SC-500-Cloud-AI-Security-Engineer-Master-Guide
 
+### 🧠 SC-500 Exam Traps & Question Analysis Playbook
+
+A practical exam-analysis resource focused on identifying SC-500 question traps, interpreting security scenarios, eliminating distractors, and applying Microsoft security concepts through engineering-focused decision making.
+
+**Repository:**  
+https://github.com/AmalUBasnayake/SC-500-Exam-Traps-Question-Analysis-Playbook
+
 ### 📘 Amal Cyber Lab — Cybersecurity Cheat Sheets
 
 A practical reference library covering Azure Security, Microsoft Security, SIEM/SOC, networking, identity, Zero Trust and cybersecurity engineering concepts.
