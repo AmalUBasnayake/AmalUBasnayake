@@ -51,12 +51,87 @@ Currently working as an **IT & Systems Specialist** supporting a Microsoft 365 e
 
 ---
 
-## 🎓 Education — BSc (Hons) Cyber Security
+# 🚀 Featured Security Engineering Projects
+
+> A curated selection of hands-on security engineering work across **AI Security, Cloud Security, Identity, SOC/SIEM, and Threat Detection**.
+
+## 🤖 AI & Cloud Security
+
+| Project | Engineering Outcome |
+|---|---|
+| **SC-500 Lab 07 - AI Security Investigation & Response** | Defender XDR investigation, Advanced Hunting, validation and response |
+| **SC-500 Lab 08 - AI Identity & Access Security** | Entra ID, Managed Identity, Azure RBAC, Microsoft Foundry and keyless access |
+| **MCP Security Engineering Lab** | Threat modeling, identity/session security, tool security, secrets protection and detection |
+| **Azure OpenAI Security & AI Automation Lab** | Secure AI architecture, identity, monitoring and automation |
+| **Azure OpenAI Private Endpoint Security** | Private AI access, identity, RBAC, logging and network isolation |
+| **Azure Content Safety & Prompt Guard Lab** | AI safety controls and prompt-injection defense concepts |
+| **Purview AI Shield / DLP Lab** | AI data protection and information governance |
+| **AI Security Architecture Lab** | Threat-aware design for AI workloads |
+| **AI Data Protection Lab** | Protection of sensitive information used by AI |
+| **AI Security & Governance Research** | Identity, data, monitoring and governance considerations |
+
+## ☁️ Azure Cloud Security
+
+| Project | Engineering Outcome |
+|---|---|
+| **Azure Firewall Hub-Spoke Security Architecture** | Segmentation, centralized inspection and controlled traffic flow |
+| **Azure WAF + Application Gateway Security** | Web application protection and security inspection |
+| **Azure DDoS Protection Lab** | Cloud-native DDoS protection |
+| **Azure Key Vault Hardening** | Secrets and cryptographic key protection |
+| **Key Vault + Managed Identity** | Passwordless workload authentication and RBAC |
+| **Azure Just-in-Time VM Access** | Reduced administrative exposure |
+| **Azure Storage Private Endpoint Security** | Private access and reduced public exposure |
+| **Azure Secure Web Load Balancer / HA** | Highly available secure web architecture |
+| **Azure PaaS Web App + SQL Architecture** | Secure PaaS workload design |
+| **Azure NSG + IIS Web Server Security** | Network access control and workload hardening |
+
+## 🔐 Identity & Zero Trust
+
+| Project | Engineering Outcome |
+|---|---|
+| **Conditional Access + MFA Security Lab** | Identity-based access enforcement |
+| **IAM + PIM Security Lab** | Just-in-time privileged access |
+| **Microsoft Entra ID Security Lab** | Authentication, authorization and identity lifecycle |
+| **Managed Identity Security Lab** | Passwordless workload identity |
+| **Identity-Based Zero Trust Lab** | Identity as a security boundary |
+| **Microsoft 365 Identity Security Lab** | Enterprise identity protection |
+
+## 🛡️ SOC / SIEM Engineering
+
+| Project | Engineering Outcome |
+|---|---|
+| **Microsoft Sentinel SIEM Threat Detection Lab** | KQL analytics, telemetry ingestion, alerting and investigation |
+| **Sentinel SOAR Automated IP Blocking** | Logic Apps-based automated incident response |
+| **Azure Sentinel Honeypot Live Attack Map** | Honeypot telemetry and attack visualization |
+| **SOC Dashboard Monitoring Lab** | Alert triage, monitoring and investigation workflows |
+| **Brute Force Attack Detection** | Authentication attack detection and response |
+| **Splunk Real-Time Security Dashboard** | Security visibility and operational monitoring |
+| **Splunk Network SOC Dashboard** | Network threat visibility and SOC monitoring |
+| **SOC Log Analysis & Threat Detection using Splunk** | Windows Security Event Log analysis, failed-logon investigation and visualization |
+
+## 🔍 Threat Detection & Infrastructure
+
+| Project | Engineering Outcome |
+|---|---|
+| **Windows Persistence Detection using Sysmon** | Endpoint threat hunting |
+| **Registry-Based Threat Detection** | Malicious registry modification detection |
+| **Active Directory Monitoring** | Authentication and attack-pattern analysis |
+| **Network Traffic Analysis** | Traffic monitoring and anomaly detection |
+| **Security Log Analysis** | Security telemetry investigation |
+| **Threat Hunting Lab** | Proactive threat investigation |
+| **Incident Investigation Lab** | Evidence analysis and response |
+| **Nessus Vulnerability Assessment** | Infrastructure vulnerability identification |
+| **Windows Endpoint Hardening** | Endpoint security baseline implementation |
+| **Group Policy Security Lab** | Centralized Windows security controls |
+
+---
+
+## 🎓 Education - BSc (Hons) Cyber Security
 
 ### University of Wolverhampton 🇬🇧
 
-**BSc (Hons) Cyber Security — Top-Up Degree**  
-📅 **Starting September 2026**
+**BSc (Hons) Cyber Security - Top-Up Degree**  
+📅 **2026–2027 | Currently Studying**
 
 I am continuing my academic development with a focus on connecting university-level cybersecurity theory with practical security engineering.
 
@@ -173,71 +248,21 @@ Continuous Improvement
 
 ---
 
-# 🚀 Featured Security Engineering Projects
+# 📚 Featured Security Resources
 
-## 🔵 SOC / SIEM Engineering
+### 🛡️ SC-500 Cloud & AI Security Engineer Master Guide
 
-| Project | Engineering Outcome |
-|---|---|
-| **Microsoft Sentinel SIEM Threat Detection Lab** | KQL analytics rules, telemetry ingestion, alerting and investigation |
-| **Sentinel SOAR Automated IP Blocking** | Logic Apps-based automated incident response |
-| **Azure Sentinel Honeypot Live Attack Map** | Honeypot telemetry and real-time attack visualization |
-| **SOC Dashboard Monitoring Lab** | Alert triage, monitoring and investigation workflows |
-| **Brute Force Attack Detection** | Authentication attack detection and response |
-| **Splunk Real-Time Security Dashboard** | Security visibility and operational monitoring |
-| **Splunk Network SOC Dashboard** | Network threat visibility and SOC monitoring |
+A practical study and exam-preparation resource covering Microsoft Cloud & AI Security concepts, scenario thinking, exam traps, and engineering-focused decision making.
 
-## ☁️ Azure Cloud Security
+**Repository:**  
+https://github.com/AmalUBasnayake/SC-500-Cloud-AI-Security-Engineer-Master-Guide
 
-| Project | Engineering Outcome |
-|---|---|
-| **Azure Firewall Hub-Spoke Security Architecture** | Segmentation, centralized inspection and controlled traffic flow |
-| **Azure WAF + Application Gateway Security** | Web application protection and OWASP-aligned inspection |
-| **Azure DDoS Protection Lab** | Cloud-native volumetric attack mitigation |
-| **Azure Key Vault Hardening** | Secrets and cryptographic key protection |
-| **Key Vault + Managed Identity** | Passwordless workload authentication and RBAC |
-| **Azure Just-in-Time VM Access** | Reduced administrative exposure |
-| **Azure Storage Private Endpoint Security** | Private access and reduced public exposure |
-| **Azure Secure Web Load Balancer / HA** | Highly available secure web architecture |
-| **Azure PaaS Web App + SQL Architecture** | Secure PaaS workload design |
-| **Azure NSG + IIS Web Server Security** | Network access control and workload hardening |
+### 📘 Amal Cyber Lab — Cybersecurity Cheat Sheets
 
-## 🔐 Identity & Zero Trust
+A practical reference library covering Azure Security, Microsoft Security, SIEM/SOC, networking, identity, Zero Trust and cybersecurity engineering concepts.
 
-| Project | Engineering Outcome |
-|---|---|
-| **Conditional Access + MFA Security Lab** | Identity-based access enforcement |
-| **IAM + PIM Security Lab** | Just-in-time privileged access |
-| **Microsoft Entra ID Security Lab** | Authentication, authorization and identity lifecycle |
-| **Managed Identity Security Lab** | Passwordless workload identity |
-| **Identity-Based Zero Trust Lab** | Identity as a security boundary |
-| **Microsoft 365 Identity Security Lab** | Enterprise identity protection |
-
-## 🤖 AI & Cloud Security
-
-| Project | Engineering Outcome |
-|---|---|
-| **Azure OpenAI Security & AI Automation Lab** | Secure AI architecture, identity, monitoring and automation |
-| **Azure OpenAI Private Endpoint Security** | Private access with identity, RBAC, logging and egress considerations |
-| **Purview AI Shield / DLP Lab** | AI data protection and information governance |
-| **AI Security Architecture Lab** | Threat-aware design for AI workloads |
-| **AI Data Protection Lab** | Protection of sensitive information used by AI |
-| **AI Security & Governance Research** | Identity, data, monitoring and governance considerations |
-
-## 🔍 Threat Detection & Infrastructure
-
-| Project | Engineering Outcome |
-|---|---|
-| **Windows Persistence Detection using Sysmon** | Endpoint threat hunting |
-| **Registry-Based Threat Detection** | Malicious registry modification detection |
-| **Active Directory Monitoring** | Authentication and attack-pattern analysis |
-| **Network Traffic Analysis** | Traffic monitoring and anomaly detection |
-| **Security Log Analysis** | Security telemetry investigation |
-| **Threat Hunting Lab** | Proactive threat investigation |
-| **Incident Investigation Lab** | Evidence analysis and response |
-| **Nessus Vulnerability Assessment** | Infrastructure vulnerability identification |
-| **Windows Endpoint Hardening** | Endpoint security baseline implementation |
-| **Group Policy Security Lab** | Centralized Windows security controls |
+**Repository:**  
+https://github.com/AmalUBasnayake/Amal-Cyber-Lab-Cybersecurity-Cheat-Sheets
 
 ---
 
@@ -263,10 +288,11 @@ My lab portfolio covers multiple security engineering domains:
 
 | Certification / Learning | Status |
 |---|---|
-| 🔄 **SC-500 — Microsoft Cloud & AI Security Engineer** | In Progress |
-| 🔄 **AZ-500 — Microsoft Azure Security Engineer** | In Progress |
+| 🔄 **SC-500 — Microsoft Cloud & AI Security Engineer** | Preparation / In Progress |
 | ✅ **Microsoft Applied Skills — Create Agents in Microsoft Copilot Studio** | Completed |
-| 📚 **MS-102 Microsoft 365 Administration Learning Path** | Completed / Learning |
+| 📚 **MS-102 Microsoft 365 Administration** | Completed / Learning |
+
+> AZ-500 is intentionally not listed as in progress because the certification retired in August 2026.
 
 ## ISO / Governance
 
@@ -426,7 +452,11 @@ I share practical cybersecurity and cloud security research through technical ar
 # 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmalUBasnayake&theme=tokyo-night&hide_border=true">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmalUBasnayake&theme=tokyonight" width="100%" alt="GitHub activity and contribution summary">
+</p>
+
+<p align="center">
+  <i>Contribution activity, commit patterns and repository statistics.</i>
 </p>
 
 ---
